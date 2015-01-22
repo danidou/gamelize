@@ -1,2 +1,2 @@
 # gamelize
-Open Source Gameification Platform
+Open Source Gamification Platform
